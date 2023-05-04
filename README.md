@@ -4,4 +4,4 @@ A simple website for searching and comparing movies from 'The Modern Javascript 
 
 Search two different movies from both side,then you'll see the more detail information and a comparison with different color.
 
-[!image]https://user-images.githubusercontent.com/88938338/236161268-d3c85040-8b1b-42f6-85a1-cadb3dc17142.png
+![_Users_henry_code_movies_index html](https://user-images.githubusercontent.com/88938338/236163308-3b2d09e1-431a-4a7b-9ca6-c9b33c3553c0.png)
